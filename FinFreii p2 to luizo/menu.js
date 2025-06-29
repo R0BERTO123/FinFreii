@@ -10,12 +10,12 @@ export function menu(oi){
 
 for(let i = 0;continuar==true;i++){
 
-console.log(`Boas-vindas ao FinFrei ${oi}
+console.log(` Boas-vindas ao FinFrei ${oi}
     Oque voce deseja fazer?`)
 console.log(`
     1-Deposito
     2-Sacar
-    3-Ver o saldo atual
+    3-Saldo atual
     4-simulador de investimento
     5-Sair
     `)
